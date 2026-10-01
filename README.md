@@ -1,4 +1,4 @@
-# ☕ Kahve Satış Analizi
+# Kahve Satış Analizi
 
 3.636 satış kaydı, insanların ne zaman kahve aldığını, ne tercih ettiğini ve bu tercihlerin gün içinde nasıl değiştiğini anlatıyor. Bu projede bu kayıtlara basit sorular sordum ve cevapları doğrudan veriden çıkardım.
 
@@ -141,4 +141,4 @@ Ardından `coffee_sales_analysis.ipynb` dosyasını açıp **Run All** ile çal�
 
 **Sudenaz Kaymaz**: Veri analizi, iş analizi ve yapay zekâ alanlarıyla ilgileniyorum. Bu projede amacım, veriden çıkan sonuçları teknik olmayan biri için de anlaşılır hâle getirmekti.
 
-[GitHub](https://github.com/sudenazkaymaz) · [LinkedIn](https://www.linkedin.com/in/<profil>) · [Medium](https://medium.com/@<kullanici-adi>)
+
